@@ -7,7 +7,7 @@
   <p><b>Bridging full-stack engineering with intelligent agentic workflows.</b></p>
   
   <p>
-    <a href="[https://linkedin.com/in/jogiya-megha](https://www.linkedin.com/in/jogiya-megha-7a62b5247 )"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/jogiya-megha-7a62b5247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:meghajogiya72@gmail.com"><img src="https://img.shields.io/badge/Email-00FFCC?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   </p>
 </div>
