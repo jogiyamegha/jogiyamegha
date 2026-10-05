@@ -75,7 +75,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Sunlight Platform](https://github.com/jogiyamegha)** | Full-stack platform managing clean energy investments with automated portfolio and wallet tracking. | `Node.js`, `React`, `MongoDB` |
-| **[Chat Architecture](https://github.com/jogiyamegha)** | Backend system supporting secure 1-to-1 and group messaging with presence tracking. | `Node.js`, `Socket.IO` |
+| **[Chat Architecture](https://github.com/jogiyamegha)** | Backend system supporting secure one-to-one and group messaging with presence tracking. | `Node.js`, `Socket.IO` |
 | **[Accounts Ara](https://github.com/jogiyamegha)** | Financial management hub featuring OTP recovery, document handling, and automated invoicing. | `React`, `Node`, `Express` |
 | **[Rakshak](https://github.com/jogiyamegha)** | Rescue agency coordination system utilizing live-tracking and dynamic resource allocation. | `Architecture`, `Backend` |
 
